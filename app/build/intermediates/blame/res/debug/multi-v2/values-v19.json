@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\aziza\\To be deleted\\Android Projects\\Android_App_FreeGifts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aziza\\.gradle\\caches\\transforms-1\\files-1.1\\android-sdk-1.2.6.aar\\4d59e32089a4625971df00674540026a\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endLines": "2,5",
+                        "endColumns": "48,12",
+                        "endOffsets": "99,231"
+                    }
+                }
+            ]
+        }
+    ]
+}

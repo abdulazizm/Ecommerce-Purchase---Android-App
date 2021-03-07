@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FreeGifts</string>
+    <string name="title_activity_bottom_nav">FreeGifts</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_orders">Orders</string>
+    <string name="logo">Logo</string>
+    <string name="title_fingerprint">One-touch Login</string>
+    <string name="login">Login</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="Hint">
+        USERNAME length should be greater than 4\n\n8-Digit PASSWORD\n\nPASSWORD and RE-ENTER PASSWORD should match
+    </string>
+
+    <string-array name="image_ids">
+        <item>@drawable/smart</item>
+        <item>@drawable/ic_lightbulb_off</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,339 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\245b868ea73534a2a6028d051f0c03ee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:2:1-36:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\91761ede11482674ae8878b2fd99f491\AndroidManifest.xml:2:1-10:12
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:2:1-15:12
+MERGED from [in.juspay:godel-osd:0.6.14] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-osd-0.6.14.aar\ff3ac63f7cfe2096aef3f4f6ad08573e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\97f38ba59363cd98516f8e097c9c9a5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e956075d136c3a3aabdfbabb5dbe44\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b2068f6a6f9bf18e008c0339faeac05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9a5b0269ce98416dc5b5f8d44c66c4d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\447f0189f504f43a4e994709d209f976\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\ef3b9effc7172226dbadc62464f5b383\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\55bc245535dd1357aef7f2db97c0de3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2e6bb1c57df0436986599d40af21a31d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f870f47cec776e39dfb949b3d6574c0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c76e616cb801c07a1c51997a1a37cf53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\998427611cc4f13ba1b1d12b5f3ca1d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\63041f678211037bbc72d1a48742bbb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e1401750d23fd072d7be80280a90de1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\be6048537524c523c04d327cdede9739\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\743162847ba2cd53cb8a2d40f18a48a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2e5acd6f818e1fb69f5a70e5f94e97b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\12210a93efe7fb51ee3db301e8a60524\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9d479c1ca8ce70d8e945fdae0b76ceac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\506678207f5d46ba4c9ed1bff052a51c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d7bbf59384f50c65d0a91f5f009afc62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e9e70f1446f47a215946d5bbb532971b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0202f166853c4e56cc04b99110a7c22a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84cdda5204c28f8d4c64ec1b1def6782\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\bb5fcc9170774e3a8b49e786d87ac908\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f5c121c7254ad2ebf7e7d4ebc0812695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0f178e5b5c325ebf1b16b5fbd0cbadcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b72d233ceca880e265fd6675a68934df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8c336eba296ebb33c8baa8938fa3eb36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d0beb82ab0c6eeec9b2c24277a58666\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\52b2437ba8db31efd2fea7e8a7025f8f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c77dd1f9990746f4369bb0637de50e2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9e3b36fa0987f25cca2b97699285bb72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1a14b90e5e89bd3b3839b4cd72729efb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:4:5-49
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:10:5-94
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:10:22-91
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:9:5-81
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:17:5-54:19
+MERGED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:11:5-16:19
+MERGED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\245b868ea73534a2a6028d051f0c03ee\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\245b868ea73534a2a6028d051f0c03ee\AndroidManifest.xml:22:5-20
+MERGED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:11:5-34:19
+MERGED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:11:5-34:19
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:12:5-13:19
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:12:5-13:19
+MERGED from [in.juspay:godel-osd:0.6.14] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-osd-0.6.14.aar\ff3ac63f7cfe2096aef3f4f6ad08573e\AndroidManifest.xml:9:5-20
+MERGED from [in.juspay:godel-osd:0.6.14] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-osd-0.6.14.aar\ff3ac63f7cfe2096aef3f4f6ad08573e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e956075d136c3a3aabdfbabb5dbe44\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e956075d136c3a3aabdfbabb5dbe44\AndroidManifest.xml:9:5-20
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\ef3b9effc7172226dbadc62464f5b383\AndroidManifest.xml:12:5-20
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\ef3b9effc7172226dbadc62464f5b383\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0202f166853c4e56cc04b99110a7c22a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0202f166853c4e56cc04b99110a7c22a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84cdda5204c28f8d4c64ec1b1def6782\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84cdda5204c28f8d4c64ec1b1def6782\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0202f166853c4e56cc04b99110a7c22a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:20:9-34
+		REJECTED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:24:9-60
+	android:roundIcon
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:23:9-40
+	tools:replace
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:25:9-38
+activity#com.FingerPointEngg.Labs.FreeGifts.BottomNav
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:26:9-28:65
+	android:label
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:28:13-62
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:27:13-72
+activity#com.FingerPointEngg.Labs.FreeGifts.SplashScreen
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:theme
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:30:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.FingerPointEngg.Labs.FreeGifts.RegisterActivity
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:38:9-40:59
+	android:theme
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:39:13-79
+activity#com.FingerPointEngg.Labs.FreeGifts.LoginActivity
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:41:9-43:59
+	android:theme
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:42:13-76
+activity#com.FingerPointEngg.Labs.FreeGifts.ProductList
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:44:9-83
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:44:19-80
+activity#com.FingerPointEngg.Labs.FreeGifts.ProductPage
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:45:9-83
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:45:19-80
+activity#com.FingerPointEngg.Labs.FreeGifts.BuyNow
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:46:9-78
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:46:19-75
+activity#com.FingerPointEngg.Labs.FreeGifts.AddUserDeliveryData
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:47:9-91
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:47:19-88
+meta-data#instamojo.orderauth.url
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:49:9-51:90
+	android:value
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:51:13-87
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:50:13-51
+activity#com.FingerPointEngg.Labs.FreeGifts.ComingSoon
+ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:53:9-91
+	android:name
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml:53:19-79
+uses-sdk
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+MERGED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:7:5-9:41
+MERGED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\245b868ea73534a2a6028d051f0c03ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\245b868ea73534a2a6028d051f0c03ee\AndroidManifest.xml:20:5-44
+MERGED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\91761ede11482674ae8878b2fd99f491\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\91761ede11482674ae8878b2fd99f491\AndroidManifest.xml:6:5-8:41
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:5:5-7:41
+MERGED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:5:5-7:41
+MERGED from [in.juspay:godel-osd:0.6.14] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-osd-0.6.14.aar\ff3ac63f7cfe2096aef3f4f6ad08573e\AndroidManifest.xml:5:5-7:41
+MERGED from [in.juspay:godel-osd:0.6.14] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-osd-0.6.14.aar\ff3ac63f7cfe2096aef3f4f6ad08573e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\97f38ba59363cd98516f8e097c9c9a5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\97f38ba59363cd98516f8e097c9c9a5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e956075d136c3a3aabdfbabb5dbe44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e956075d136c3a3aabdfbabb5dbe44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b2068f6a6f9bf18e008c0339faeac05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b2068f6a6f9bf18e008c0339faeac05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9a5b0269ce98416dc5b5f8d44c66c4d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9a5b0269ce98416dc5b5f8d44c66c4d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\447f0189f504f43a4e994709d209f976\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\447f0189f504f43a4e994709d209f976\AndroidManifest.xml:20:5-44
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\ef3b9effc7172226dbadc62464f5b383\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\ef3b9effc7172226dbadc62464f5b383\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\55bc245535dd1357aef7f2db97c0de3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\55bc245535dd1357aef7f2db97c0de3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2e6bb1c57df0436986599d40af21a31d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2e6bb1c57df0436986599d40af21a31d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f870f47cec776e39dfb949b3d6574c0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f870f47cec776e39dfb949b3d6574c0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c76e616cb801c07a1c51997a1a37cf53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c76e616cb801c07a1c51997a1a37cf53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\998427611cc4f13ba1b1d12b5f3ca1d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\998427611cc4f13ba1b1d12b5f3ca1d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\63041f678211037bbc72d1a48742bbb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\63041f678211037bbc72d1a48742bbb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e1401750d23fd072d7be80280a90de1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e1401750d23fd072d7be80280a90de1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\be6048537524c523c04d327cdede9739\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\be6048537524c523c04d327cdede9739\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\743162847ba2cd53cb8a2d40f18a48a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\743162847ba2cd53cb8a2d40f18a48a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2e5acd6f818e1fb69f5a70e5f94e97b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2e5acd6f818e1fb69f5a70e5f94e97b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\12210a93efe7fb51ee3db301e8a60524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\12210a93efe7fb51ee3db301e8a60524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9d479c1ca8ce70d8e945fdae0b76ceac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9d479c1ca8ce70d8e945fdae0b76ceac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\506678207f5d46ba4c9ed1bff052a51c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\506678207f5d46ba4c9ed1bff052a51c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d7bbf59384f50c65d0a91f5f009afc62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d7bbf59384f50c65d0a91f5f009afc62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e9e70f1446f47a215946d5bbb532971b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e9e70f1446f47a215946d5bbb532971b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0202f166853c4e56cc04b99110a7c22a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0202f166853c4e56cc04b99110a7c22a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84cdda5204c28f8d4c64ec1b1def6782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84cdda5204c28f8d4c64ec1b1def6782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\bb5fcc9170774e3a8b49e786d87ac908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\bb5fcc9170774e3a8b49e786d87ac908\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f5c121c7254ad2ebf7e7d4ebc0812695\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f5c121c7254ad2ebf7e7d4ebc0812695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0f178e5b5c325ebf1b16b5fbd0cbadcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0f178e5b5c325ebf1b16b5fbd0cbadcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b72d233ceca880e265fd6675a68934df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b72d233ceca880e265fd6675a68934df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8c336eba296ebb33c8baa8938fa3eb36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8c336eba296ebb33c8baa8938fa3eb36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d0beb82ab0c6eeec9b2c24277a58666\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d0beb82ab0c6eeec9b2c24277a58666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\52b2437ba8db31efd2fea7e8a7025f8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\52b2437ba8db31efd2fea7e8a7025f8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c77dd1f9990746f4369bb0637de50e2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c77dd1f9990746f4369bb0637de50e2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9e3b36fa0987f25cca2b97699285bb72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9e3b36fa0987f25cca2b97699285bb72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1a14b90e5e89bd3b3839b4cd72729efb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1a14b90e5e89bd3b3839b4cd72729efb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aziza\To be deleted\Android Projects\Android_App_FreeGifts\app\src\main\AndroidManifest.xml
+activity#instamojo.library.Instamojo
+ADDED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from [ai.devsupport.instamojo:instamojolib:0.1.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\instamojolib-0.1.6.aar\c17715325754f3a8d70dbfd5ac1abbd9\AndroidManifest.xml:14:19-61
+activity#com.instamojo.android.activities.PaymentDetailsActivity
+ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:15:9-26:20
+	android:screenOrientation
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:17:13-49
+	android:theme
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:18:13-44
+	android:name
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:16:13-83
+meta-data#android.app.searchable
+ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:19:13-21:54
+	android:resource
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:21:17-51
+	android:name
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:20:17-54
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:23:13-25:29
+action#android.intent.action.SEARCH
+ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:24:17-71
+	android:name
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:24:25-68
+activity#com.instamojo.android.activities.PaymentActivity
+ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:27:9-33:58
+	android:screenOrientation
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:30:13-36
+	android:hardwareAccelerated
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:29:13-47
+	android:windowSoftInputMode
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:33:13-55
+	android:theme
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from [com.instamojo:android-sdk:1.2.6] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\android-sdk-1.2.6.aar\4d59e32089a4625971df00674540026a\AndroidManifest.xml:28:13-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [in.juspay:godel:0.6.18.1423] C:\Users\aziza\.gradle\caches\transforms-1\files-1.1\godel-0.6.18.1423.aar\6ea630b57c381b444e8c00f8b3218844\AndroidManifest.xml:10:22-73
